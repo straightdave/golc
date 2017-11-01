@@ -14,3 +14,5 @@ TestCase1
 TestCase2
 TestCase3
 ```
+
+>You may need to set `export PATH=$PATH:$GOPATH/bin` if you have your own GOPATH, to use the `golc` directly without any prefix.
