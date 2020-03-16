@@ -1,5 +1,5 @@
 # golc
-GO List Case names
+GO List Case names. It's simple but it's my first ever Go code.
 
 ## install
 ```bash
